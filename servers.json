@@ -1303,17 +1303,10 @@
         ]
     },
     {
-        "id": "donutsmp",
-        "name": "DonutSMP",
+        "id": "aqualynetwork",
+        "name": "Aqualy Network",
         "addresses": [
-            "donutsmp.net"
-        ]
-    },
-    {
-        "id": "playblocks",
-        "name": "Playblocks",
-        "addresses": [
-            "playblocks.org"
+            "aqualy.cc"
         ]
     }
 ]
